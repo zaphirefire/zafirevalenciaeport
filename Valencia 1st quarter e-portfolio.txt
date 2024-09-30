@@ -1,0 +1,164 @@
+<html>
+    <title> Zaphire W. Valencia First Quarter E-Portfolio></title>
+    <body background="C:\Users\Zaphire Valencia\Downloads\coquette bg image.jpg">
+        <h1 style="color:purple; font-family:'Courier New', Courier, monospace; text-align:center;">
+            <b> <u> Zaphire Valencia First Quarter E-Portfolio </u> </b>
+            </h1>
+            <p> Hello! My name is Zaphire William Valencia, I'm 14 years old and I'm turning 15 on November 01, 2024. </p>
+             <p> This was me when I was a kid and now.</p>
+             <img src="C:\Users\Zaphire Valencia\Downloads\me1.jpg">
+             <img src="C:\Users\Zaphire Valencia\Downloads\me2.jpg">
+<table align="center" border="1" bordercolor="darkpink"> <tr bgcolor="white"></tr>
+
+<tr>
+<th align="center" width="200">I LIKE</th>
+<th align="center" <th align="center" width="200">I DON'T LIKE</th> <th align="center" width="200">MY INTERESTS</th>
+</tr>
+
+<tr>
+<td align="center">Eating</td>
+<td align="center">Insects</td>
+<td align="center">Ice skating</td>
+</tr>
+
+<tr>
+<td align="center">Playing Volleyball</td>
+<td align="center">Memorizing</td>
+<td align="center">Playing the keyboard</td>
+
+<tr>
+<td align="center">Playing Badminton</td>
+<td align="center">Barre Chords</td>
+<td align="center">Playing call of duty mobile</td>
+</table>
+<h3>My favorite people are:</h3>
+<ul>
+<li>My Family</li>
+<li>My friends</li>
+<li> My pet yurie</li>
+</ul> <p align="center">
+<img src="C:\Users\Zaphire Valencia\Downloads\family friends yurie.jpg" width="500">
+</p>
+<h1 style="color:rgb(128, 0, 90); font-family:Arial, Helvetica, sans-serif; text-align:center;">
+    <b> <u> First Quarter Activities - This are my pictures, screenrecordings of my first quarter activities and the pictures or documentation during our free time. </u> </b>
+    <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (8).png" width="500">
+    <video controls src="C:\Users\Zaphire Valencia\Videos\Screen Recordings\Screen Recording 2024-08-28 231109.mp4" width="500"></video>
+    <img src="C:\Users\Zaphire Valencia\Downloads\free time.jpg" width="500">
+    <img src="C:\Users\Zaphire Valencia\Downloads\free time1.jpg" width="500">
+    <h1 style="color:rgb(128, 0, 36); font-family:Arial, Helvetica, sans-serif; text-align:center;">
+        <hr noshade size="4">
+        <b> <u> Lesson 1-2: In lesson 1 to 2 we learned about xhtml and making lists.</u> </b>
+        <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (4).png" width="500">
+        <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (5).png" width="500">
+        <h1 style="color:rgb(128, 0, 36); font-family:Arial, Helvetica, sans-serif; text-align:center;">
+            <hr noshade size="4">
+            <b><u> </u></b>
+            <b> <u> Lesson 3-4: In lesson 3 to 4 we learned about making tables in html.</u> </b>
+            <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (6).png" width="500">
+            <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (7).png" width="500">
+            <h1 style="color:rgb(128, 0, 36); font-family:Arial, Helvetica, sans-serif; text-align:center;">
+                <hr noshade size="4">
+                <h1 style="color:rgb(128, 0, 36); font-family:Arial, Helvetica, sans-serif; text-align:center;">
+                    <hr noshade size="4">
+                    <b> <u> Lesson 5: In lesson 5 we learned all about hyperlink.</u> </b>
+                    <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (9).png" width="500">
+                    <h1 style="color:rgb(128, 0, 36); font-family:Arial, Helvetica, sans-serif; text-align:center;">
+                        <hr noshade size="4">
+                        <b> <u> Lesson 6-8: in lesson 6 to 8 we learned all abt forms.</u> </b>
+                        <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (10).png" width="500">
+                        <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (11).png" width="500">
+                        <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (12).png" width="500">
+                        <h1 style="color:purple; font-family:'Courier New', Courier, monospace; text-align:center;">
+                            <b> <u> notepads and browser outputs each lesson: </b> </u>
+                            </h1>
+                            <ol></ol>
+                                <b>Birthstones</b>
+                                <li>Types<li>
+                                <li>Amethyst</li>
+                                <li>Apatite</li>
+                                <li>Aquamarine</li>
+                                <li>Alexandrite</li>
+                                <li>Citrine</li>
+                                </ul>
+                                </li>
+                                </ol>
+                                <dl>
+                                <dt>Sapphire:my favorite</dt>
+                                <dd>
+                                <i> they are the second hardest natural mineral known to mankind</i>
+                                </dd>
+                                </dl>
+                                <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (13).png" width="500">
+                                <table align="center" border="1" bordercolor="darkpink"> <tr bgcolor="white"></tr>
+
+                                    <tr>
+                                    <th align="center" width="200">I LIKE</th>
+                                    <th align="center" <th align="center" width="200">I DON'T LIKE</th> <th align="center" width="200">MY INTERESTS</th>
+                                    </tr>
+                                    
+                                    <tr>
+                                    <td align="center">Eating</td>
+                                    <td align="center">Insects</td>
+                                    <td align="center">Ice skating</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                    <td align="center">Playing Volleyball</td>
+                                    <td align="center">Memorizing</td>
+                                    <td align="center">Playing the keyboard</td>
+                                    
+                                    <tr>
+                                    <td align="center">Playing Badminton</td>
+                                    <td align="center">Barre Chords</td>
+                                    <td align="center">Playing call of duty mobile</td>
+                                    </table>
+                                    <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (16).png" width="500">
+<a href="https://www.youtube.com">My Favorite Website</a>
+<br><br>
+<img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (17).png" width="500">
+<a href="mailto:williamgina35@gmail.com">Message Me!</a>
+<form method="get" action="something.html">
+    <h3 align="center">General Survey Form</h3>
+    Full Name: <input type="text" name="name"> <br><br>
+    Sex: <select name="sex" size="1">
+    <option>Male</option>
+    <option>Female</option>
+    <option>Other</option>
+    </select> <br><br>
+    
+    Birthdate: <input type="date" name="bday"> <br><br>
+    
+    Favorite Color: <input type="color" name="favecolor"> <br><br>
+    
+    How is your lpsci journey? <br>
+    
+    <input type="radio" name="lpsci status"> Good
+    
+    <input type="radio" name="lpsci status"> Saddening
+    
+    <input type="radio" name="lpsci status"> Difficult 
+    
+    <input type="radio" name="lpsci status"> Other: <br>
+    <textarea cols="60" wrap="soft">Other</textarea>
+    <p align="center">
+    <input type="submit" value="Submit">
+    <input type="reset" value="Reset">
+    </p>
+    </form>
+    idea from: Anthony Laurie Dumanglas from 9 family
+    <img src="C:\Users\Zaphire Valencia\OneDrive\Pictures\Screenshots\2024-09-30 (18).png" width="500">
+                        <h1 style="color:rgb(60, 0, 128); font-family:'Courier New', Courier, monospace; text-align:center;">
+                            <b> <u> Reflection </u> </b>
+                            </h1>
+                            <pre>
+                                <p style="color:rgb(5, 3, 3); font-family:Calibri; text-align:justify;"> <b>
+                                    Being in las Pinas science high is really difficult but I overcome it by enjoying it. ICT is the hardest subject for me. Harder than math, but thankfully 
+Ms. Uminga is not terror and I really like it because I'm not pressured because if I get pressured, I always fail the subject. I learned a lot of things
+in ICT that was taught by Ms. Uminga, First is not to cram things, review and study, and  practice on how to code because she always gives us performance
+task that it's not allowed to have notes. ICT helped me a lot, why? Because it assists students in acquiring new abilities and enhancing their creativity. ICT fosters the growth of both 
+creativity and proactive behavior. It is an important resource for creating work, in terms of both substance and structure. Enhancing students' academic performance goes hand in hand 
+with their overall classroom experience being significantly enhanced. it taught me on how to I always practice to get good score and I promise to myself that I will do better next quarter.
+                                </p>
+                                </pre>
+            </body>
+        </html>
